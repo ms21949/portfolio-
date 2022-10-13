@@ -1,0 +1,171 @@
+baseURL: ""
+languageCode: "en-us"
+title: "Madhav Sharma | Portfolio"
+theme: "./.."
+relativeURLs: true
+
+googleanalytics: UA-xxxxxx-x
+disqusShortname:
+Paginate: 3
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+taxonomies:
+  tag: "tags"
+  category: "categories"
+  
+enableEmoji: true
+params:
+  version: 3
+  customCSS: false
+
+  favicon: https://cdn2.iconfinder.com/data/icons/inclusiveness-vivid-vol-2/256/Scientist-male-512.png 
+  description: "Madhav's personal portfolio"
+
+  # Navbar Menus
+  
+
+  # home
+  disable_home: false
+  #profile_image: /images/nav-img.png
+  name: "Madhav Sharma"
+  namecolor: 17a2b8
+  profession: "Aspiring Data Scientist"
+  github: "https://github.com/ms21949/"
+  linkedin: "https://www.linkedin.com/in/madhavsharma15/"
+  #twitter: "https://twitter.com/Rohan20075428"
+  gmail: "https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=madhavsharma511@gmail.com"
+  #instagram: "https://instagram.com/__rohan__95?utm_medium=copy_link"
+  
+
+  # Custom social links
+  customSocialLinks:
+    - fontAwesomeIconName: "fa fa-envelope"
+      url: "https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=madhavsharma511@gmail.com"
+      fontAwesomeIconName: "fa fa-envelope"
+      url: "https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=madhavsharma511@gmail.com"
+
+  # About
+  disable_about: false  
+  descripe_l1_person: "An MSc Data Science graduate from the University of Essex, with the ability to highly analyse and implement Predictive Machine Learning models for Forecasting and Classification problems. Skilled in Machine Learning and Natural Language Processing methodologies with Data Manipulation and Visualisation skills using Python and R programming."
+  descripe_l2_person: "### KEY ACHIEVEMENTS"
+  descripe_l3_person: "Assigned as a team leader for group projects and presentations at the University."
+  descripe_l4_person: "Awarded an Academic Excellence International Masters scholarship of  £5000 at the University of Essex."
+  descripe_l5_person: "Achieved outstanding results in Statistics and Predictive Modelling using Machine Learning at the University."
+  descripe_l6_person: "Earned intern of the month title because of my ability to analyse data, generate successful insights and find appropriate key performance indicators (KPIs)."
+  descripe_l7_person: "Awarded as the best final year project during Bachelors for developing an E-Commerce Mobile application by implementing a Cart Discarding analysis and Recommendation System for listed products."
+  descripe_l8_person: "Successfully implemented a Machine Learning model for detecting fake reviews and achieved an overall accuracy of 90%."
+
+  skills:
+    - name: SQL
+      percentage: 77
+    - name: Python programmin
+      percentage: 80
+    - name: Machine Learning
+      percentage: 80
+    - name: Natural Language Processing
+      percentage: 70
+    - name: Predictive Modelling and Forecasting
+      percentage: 75
+    - name: Amazon Web Services (EC2, S3, Sagemaker)
+      percentage: 55
+    - name: Apache Spark | PySpark
+      percentage: 30
+    - name: Data preprocessing & visualisation
+      percentage: 80
+    - name: Microsoft Excel
+      percentage: 70
+    - name: R programming
+      percentage: 60
+
+  # Experience
+  disable_experience: false
+  experience:
+    - company: "Neubrain-Solutions-pvt-ltd"
+      role: "Data Scientist Intern"
+      startdate: "October 31 2020"
+      enddate: "July 07 2021"
+      featuredpoints:
+        - point: "Worked on projects such as in-vehicle coupon recommendation systems and fake product review detection for decision making."
+        - point: "Manipulated and pre-processed data by using Natural Language Processing libraries and encoders in python."
+        - point: "Analysed data to generate intelligent insights by performing Exploratory Data Analysis."
+        - point: "Implemented Machine Learning algorithms from the sklearn library in python and performed binary classification and improved the accuracy of the model by performing Hyperparameter Tuning."
+    
+  #certifications section
+  disable_certification: true
+  #certification:
+  #  - Name: ML-DL-Masters-Course
+  #    institution: iNeuron.ai
+  #    startdate: "August 2021"
+  #    enddate: "August 2022"
+  #    link:
+  #      - weblink: "https://github.com/rohanpatankar926"
+  #        certificate: "View Certificate"
+    
+  # Education
+  disable_education: false
+  education:
+    - degree: "MSc"
+      branch: "Data Science"
+      university: "University of Essex"
+     
+      startedyear: "2021"
+      graduation: "2022"
+    - degree: "B.E"
+      branch: "Computer Science"
+      university: "University of Mumbai"
+      startedyear: "2016"
+      graduation: "2020"
+    - degree: "Diploma"
+      branch: "Computer Science"
+      university: "Maharashtra State Board of Technical Education (Mumbai)"
+      startedyear: "2013"
+      graduation: "2016"
+
+  # Projects
+  disable_projects: false
+  projects:
+    - name: "Fake Review Detection Using Supervised Machine Learning"
+      img: /images/nlp.png
+      githublink: "https://github.com/ms21949/NLP"
+      #featuredlink: "http://ec2-34-228-37-227.compute-1.amazonaws.com:8080/"
+      description: "The idea behind this project was to use WordLemmatizer along with an N-gram Model. Further vectorising the Product-Review text using a Term Frequency - Inverse Document Frequency (TF-IDF) and then fine-tuning a supervised Machine Learning Model to predict if the review is fake or real."
+    - name: "Coupon recommendation for vehicle infotainment systems"
+      img: /images/vehicle.jpeg
+      githublink: "https://github.com/ms21949/Binary-Classification"
+      #featuredlink: "http://ec2-34-228-37-227.compute-1.amazonaws.com:8080/"
+      description: "The following code is based on the dataset which was collected via a survey on Amazon Mechanical Turk. The survey describes different driving scenarios including the destination, current time, weather, passenger, etc., and then ask the person whether he will accept the coupon if he is the driver."
+    - name: "Rossmann Store Sales Prediction"
+      img: /images/sale.jpeg
+      githublink: "https://github.com/ms21949/Sales-Prediction-"
+      #featuredlink: "http://ec2-34-228-37-227.compute-1.amazonaws.com:8080/"
+      description: "Rossmann operates over 3,000 drug stores in 7 European countries. Currently, Rossmann store managers are tasked with predicting their daily sales for up to six weeks in advance. Store sales are influenced by many factors, including promotions, competition, school and state holidays, seasonality, and locality. With thousands of individual managers predicting sales based on their unique circumstances, the accuracy of results can be quite varied."
+    
+  # services
+  disable_achievements: true
+  achievements:
+    - title: "Website Development"
+      description: "Design a website for personal use or for business purpose using HTML, CSS, JS and Python."
+      img: /images/Website-Design-new.jpg
+    - title: Data Analysis
+      description: "With the help of tableu or python analyze the data of the business or client needs which help them to solve business problems."
+      img: /images/da.jpg
+      # url: https://example.com
+    - title: Machine Learning & Deep Learning
+      description: "Build various types of ML and DL models according to business or client needs in which it helps to solve complex business issues." 
+      img: /images/ml.png
+    
+  # Contact
+  disable_contact: false
+  contact_content: My inbox is always open. Whether you have a question or just want to say hi, I'll try my best to get back to you! 
+  email: "madhavsharma511@mail.com"
+
+  # Footer
+  socialiconfooter: true
+  recentposts: true
+
+  # Blog
+  showdescription: false
+  tweet: true
