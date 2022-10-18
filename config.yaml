@@ -142,6 +142,15 @@ params:
       githublink: "https://github.com/ms21949/Sales-Prediction-"
       #featuredlink: "http://ec2-34-228-37-227.compute-1.amazonaws.com:8080/"
       description: "Rossmann operates over 3,000 drug stores in 7 European countries. Currently, Rossmann store managers are tasked with predicting their daily sales for up to six weeks in advance. Store sales are influenced by many factors, including promotions, competition, school and state holidays, seasonality, and locality. With thousands of individual managers predicting sales based on their unique circumstances, the accuracy of results can be quite varied."
+    - name: "Construction Management Firm Evaluator (Deployed on AWS EC2)"
+      img: /images/invest-real-estate-icon-flat-design-house-building-investment-money-industry-financial-finance-business-residential-61464178.jpeg
+      githublink: "https://github.com/ms21949/Construction-Management-Firm-Evaluator"
+      featuredlink: "http://ec2-34-228-37-227.compute-1.amazonaws.com:8080/"
+      description: "After scraping and converting the data into a CSV, performed some Exploratory Data Analysis on the Dataset and implemented a Machine Learning Model to predict if the Firm is worth Investing and vice versa.  I have built an interactive Flask Web Application including two fields I. e, Rank and Revenue using the model developed in the previous step. "
+    
+    
+    
+    
     
   # services
   disable_achievements: true
