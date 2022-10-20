@@ -147,7 +147,12 @@ params:
       githublink: "https://github.com/ms21949/Construction-Management-Firm-Evaluator"
       featuredlink: "http://ec2-34-228-37-227.compute-1.amazonaws.com:8080/"
       description: "After scraping and converting the data into a CSV, performed some Exploratory Data Analysis on the Dataset and implemented a Machine Learning Model to predict if the Firm is worth Investing and vice versa.  I have built an interactive Flask Web Application including two fields I. e, Rank and Revenue using the model developed in the previous step. "
-    
+    - name: "Credit Score Estimator"
+      img: /images/creditscore.jpeg
+      githublink: "https://github.com/ms21949/CreditScore-Estimator"
+      featuredlink: "https://credit-score-estimator.herokuapp.com/"
+      description: "(Work in Progress (Version 1))Given a persons credit-related information, build a machine learning model that can classify the credit score."
+
     
     
     
