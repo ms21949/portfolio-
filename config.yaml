@@ -83,7 +83,7 @@ params:
   # Experience
   disable_experience: false
   experience:
-    - company: "Neubrain-Solutions-pvt-ltd"
+    - company: "Neubrain-Solutions"
       role: "Data Scientist Intern"
       startdate: "October 31 2020"
       enddate: "July 07 2021"
