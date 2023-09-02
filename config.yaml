@@ -88,10 +88,10 @@ params:
       startdate: "May 2023"
       enddate: "-"
       featuredpoints:
-        - point: "1. Receiving and Validating Data Files:\n
-                      *Receive data files from clients.\n
-                      *Check the data files for validity and accuracy.\n
-                      *Format the data files for importing into industry-standard software."
+        - point: "1. Receiving and Validating Data Files:"\n
+                      "*Receive data files from clients."\n
+                      "*Check the data files for validity and accuracy."\n
+                      "*Format the data files for importing into industry-standard software."
         - point: "2. Data Preparation and Formatting:
                       *Use Excel functions (e.g., LookUp, If functions, Match, Index) to optimize the format and layout of 
                        data files.
