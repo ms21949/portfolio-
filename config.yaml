@@ -83,7 +83,7 @@ params:
   # Experience
   disable_experience: false
   experience:
-   - company: "The Delivery Group"
+    - company: "The Delivery Group"
       role: "Data Processor"
       startdate: "May 2023"
       enddate: "-"
