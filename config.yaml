@@ -81,7 +81,7 @@ params:
       percentage: 60
 
   # Experience
-  disable_experience: false
+  disable_experience: true
   experience:
     - company: "The Delivery Group"
       role: "Data Processor"
