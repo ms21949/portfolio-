@@ -81,28 +81,28 @@ params:
       percentage: 60
 
   # Experience
-  disable_experience: true
+  disable_experience: false
   experience:
     - company: "The Delivery Group"
       role: "Data Processor"
       startdate: "May 2023"
       enddate: "-"
       featuredpoints:
-        - point: "1. Receiving and Validating Data Files:"\n
-                      "*Receive data files from clients."\n
-                      "*Check the data files for validity and accuracy."\n
-                      "*Format the data files for importing into industry-standard software."
-        - point: "2. Data Preparation and Formatting:
-                      *Use Excel functions (e.g., LookUp, If functions, Match, Index) to optimize the format and layout of 
-                       data files.
-                      *Ensure compliance with Royal Mail (RM) and client requirements."
-        - point: "3. Data Output and Generation:
-                      *Prepare data files for production.
-                      *Generate output files for mailing or postage purposes."
-        - point: "4. Postage Statements and Labels:
-                      *Create postage statements, manifests, and labels (both hard-copy and electronic versions).
-                      *Distribute these documents as required.
-                      *Provide reports to customers regarding the postage and mailing process."
+        - point: "\b Receiving and Validating Data Files:"
+        - point: "Receive data files from clients."
+        - point: "Check the data files for validity and accuracy."
+        - point: "Format the data files for importing into industry-standard software."
+        - point: "\b Data Preparation and Formatting:"
+        - point: "Use Excel functions (e.g., LookUp, If functions, Match, Index) to optimize the format and layout of 
+                  data files."
+        - point: "Ensure compliance with Royal Mail (RM) and client requirements."
+        - point: "Data Output and Generation:"
+        - point: "Prepare data files for production."
+        - point: "Generate output files for mailing or postage purposes."
+        - point: "\b Postage Statements and Labels:"
+        - point: "Create postage statements, manifests, and labels (both hard-copy and electronic versions)."
+        - point: "Distribute these documents as required."
+        - point: "Provide reports to customers regarding the postage and mailing process."
     
     - company: "Neubrain-Solutions Pvt. Ltd."
       role: "Data Scientist Intern"
