@@ -84,6 +84,7 @@ params:
   disable_experience: false
   experience:
     - company: "Neubrain-Solutions Pvt. Ltd."
+      id: "Neubrain Sol"
       role: "Data Scientist Intern"
       startdate: "October 31 2020"
       enddate: "July 07 2021"
@@ -93,6 +94,7 @@ params:
         - point: "Analysed data to generate intelligent insights by performing Exploratory Data Analysis."
         - point: "Implemented Machine Learning algorithms from the sklearn library in python and performed binary classification and improved the accuracy of the model by performing Hyperparameter Tuning."
     - company: "The Delivery Group"
+      id: "TDG"
       role: "Data Processor"
       startdate: "May 2023"
       enddate: "-"
