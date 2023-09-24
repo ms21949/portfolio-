@@ -61,7 +61,7 @@ params:
   skills:
     - name: SQL
       percentage: 77
-    - name: Python programmin
+    - name: Python programming
       percentage: 80
     - name: Machine Learning
       percentage: 80
@@ -103,7 +103,6 @@ params:
         - point: "Create postage statements, manifests, and labels (both hard-copy and electronic versions)."
         - point: "Distribute these documents as required."
         - point: "Provide reports to customers regarding the postage and mailing process."
-    
     - company: "Neubrain-Solutions Pvt. Ltd."
       role: "Data Scientist Intern"
       startdate: "October 31 2020"
@@ -131,7 +130,6 @@ params:
     - degree: "MSc"
       branch: "Data Science"
       university: "University of Essex"
-     
       startedyear: "2021"
       graduation: "2022"
     - degree: "B.E"
