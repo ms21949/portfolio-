@@ -83,6 +83,16 @@ params:
   # Experience
   disable_experience: false
   experience:
+    - company: "Neubrain-Solutions Pvt. Ltd."
+      role: "Data Scientist Intern"
+      startdate: "October 31 2020"
+      enddate: "July 07 2021"
+      featuredpoints:
+        - point: "Worked on projects such as in-vehicle coupon recommendation systems and fake product review detection for decision making."
+        - point: "Manipulated and pre-processed data by using Natural Language Processing libraries and encoders in python."
+        - point: "Analysed data to generate intelligent insights by performing Exploratory Data Analysis."
+        - point: "Implemented Machine Learning algorithms from the sklearn library in python and performed binary classification and improved the accuracy of the model by performing Hyperparameter Tuning."
+    
     - company: "The Delivery Group"
       role: "Data Processor"
       startdate: "May 2023"
@@ -103,15 +113,6 @@ params:
         - point: "Create postage statements, manifests, and labels (both hard-copy and electronic versions)."
         - point: "Distribute these documents as required."
         - point: "Provide reports to customers regarding the postage and mailing process."
-    - company: "Neubrain-Solutions Pvt. Ltd."
-      role: "Data Scientist Intern"
-      startdate: "October 31 2020"
-      enddate: "July 07 2021"
-      featuredpoints:
-        - point: "Worked on projects such as in-vehicle coupon recommendation systems and fake product review detection for decision making."
-        - point: "Manipulated and pre-processed data by using Natural Language Processing libraries and encoders in python."
-        - point: "Analysed data to generate intelligent insights by performing Exploratory Data Analysis."
-        - point: "Implemented Machine Learning algorithms from the sklearn library in python and performed binary classification and improved the accuracy of the model by performing Hyperparameter Tuning."
     
   #certifications section
   disable_certification: true
