@@ -84,7 +84,7 @@ params:
   disable_experience: false
   experience:
     - company: "Neubrain-Solutions Pvt. Ltd."
-      id: "Neubrain Sol"
+      id: "Neubrain"
       role: "Data Scientist Intern"
       startdate: "October 31 2020"
       enddate: "July 07 2021"
