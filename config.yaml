@@ -92,7 +92,7 @@ params:
         - point: "Manipulated and pre-processed data by using Natural Language Processing libraries and encoders in python."
         - point: "Analysed data to generate intelligent insights by performing Exploratory Data Analysis."
         - point: "Implemented Machine Learning algorithms from the sklearn library in python and performed binary classification and improved the accuracy of the model by performing Hyperparameter Tuning."
-    
+  experience:
     - company: "The Delivery Group"
       role: "Data Processor"
       startdate: "May 2023"
