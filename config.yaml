@@ -85,7 +85,7 @@ params:
   experience:
     - company: "Neubrain-Solutions Pvt. Ltd."
       id: "Neubrain"
-      role: "Data Scientist Intern"
+      role: "Data Scientist Intern (Mumbai, India)"
       startdate: "October 31 2020"
       enddate: "July 07 2021"
       featuredpoints:
@@ -95,7 +95,7 @@ params:
         - point: "Implemented Machine Learning algorithms from the sklearn library in python and performed binary classification and improved the accuracy of the model by performing Hyperparameter Tuning."
     - company: "The Delivery Group"
       id: "TDG"
-      role: "Data Processor"
+      role: "Data Processor (Bristol, England)"
       startdate: "May 2023"
       enddate: "-"
       featuredpoints:
