@@ -21,7 +21,7 @@ params:
   version: 3
   customCSS: false
 
-  favicon: https://cdn2.iconfinder.com/data/icons/inclusiveness-vivid-vol-2/256/Scientist-male-512.png 
+  #favicon: https://cdn2.iconfinder.com/data/icons/inclusiveness-vivid-vol-2/256/Scientist-male-512.png 
   description: "Madhav's personal portfolio"
 
   # Navbar Menus
