@@ -59,9 +59,17 @@ params:
   descripe_l8_person: "Successfully implemented a Machine Learning model for detecting fake reviews and achieved an overall accuracy of 90%."
 
   skills:
+    - name: Microsoft Excel
+      percentage: 85
     - name: SQL
-      percentage: 77
-    - name: Python programming
+      percentage: 80
+    - name: Python Programming
+      percentage: 80
+    - name: R programming
+      percentage: 50
+    - name: Microsoft PowerBI
+      percentage: 50
+    - name: Data preprocessing & visualisation
       percentage: 80
     - name: Machine Learning
       percentage: 80
@@ -71,14 +79,9 @@ params:
       percentage: 75
     - name: Amazon Web Services (EC2, S3, Sagemaker)
       percentage: 55
-    - name: Apache Spark | PySpark
-      percentage: 30
-    - name: Data preprocessing & visualisation
-      percentage: 80
-    - name: Microsoft Excel
+    - name: Git
       percentage: 70
-    - name: R programming
-      percentage: 60
+    
 
   # Experience
   disable_experience: false
@@ -99,21 +102,35 @@ params:
       startdate: "May 2023"
       enddate: "-"
       featuredpoints:
-      # - point: "Receiving and Validating Data Files:"
         - point: "Receive data files from clients."
         - point: "Check the data files for validity and accuracy."
         - point: "Format the data files for importing into industry-standard software."
         - point: "Data Preparation and Formatting:"
-        - point: "Use Excel functions (e.g., LookUp, If functions, Match, Index) to optimize the format and layout of 
-                  data files."
+        - point: "Use Excel functions (e.g., LookUp, If functions, Match, Index) to optimise the format and layout of data files."
         - point: "Ensure compliance with Royal Mail (RM) and client requirements."
-       # - point: "Data Output and Generation:"
+        - point: "Data Cleansing:"
+        - point: "Manipulate client databases and data files to ensure data quality."
+        - point: "Conduct quality control checks to identify and rectify potential data problems."
+        - point: "Ensure all records are fully and accurately addressed and postcoded according to Royal Mail's Postcode Address File (PAF)."
+        - point: "Suppress customer and prospect data against the Mailing Preference Service (MPS), including MPS Deceased."
+        - point: "Run data against the client's internal suppression file to remove unwanted entries."
+        - point: "Implement data deduplication processes to eliminate duplicate records."
+        - point: "Provide reports to customers regarding the results of data cleansing efforts."
+        - point: "Data Output and Generation:"
         - point: "Prepare data files for production."
         - point: "Generate output files for mailing or postage purposes."
-       # - point: "Postage Statements and Labels:"
-        - point: "Create postage statements, manifests, and labels (both hard-copy and electronic versions)."
+        - point: "Postage Statements and Labels:"
+        - point: "Create postage statements, manifests, and labels hard-copy and electronic versions."
         - point: "Distribute these documents as required."
         - point: "Provide reports to customers regarding the postage and mailing process."
+        - point: "Quality Assurance:"
+        - point: "Perform a final quality check to compare job specifications with the final product."
+        - point: "Ensure compliance with Royal Mail regulations."
+        - point: "Liaison with the Sales Team:"
+        - point: "Collaborate with the Sales team to address data audit inquiries."
+        - point: "Data Handling Compliance:"
+        - point: "Ensure that all data handling processes are compliant with the General Data Protection Regulation (GDPR) and other relevant data privacy laws."
+
     
   #certifications section
   disable_certification: true
