@@ -90,18 +90,7 @@ params:
       featuredpoints:
         - point: Lead backend developer for a product.
         - point: Created a frontend design for a product.
-  
-  
-  #certifications section
-  disable_certification: false
-  certification:
-    - Name: Preparing Data for Analysis with Microsoft Excel
-      institution: Microsoft
-      startdate: "September 2023"
-      enddate: "October 2023"
-    link:
-        - weblink: "https://drive.google.com/file/d/1EtaH05rgSYkxA8psm7B8GuT37lBDoamI/view?usp=sharing"
-        certificate: "View Certificate"
+
 
   # Education
   disable_education: false
