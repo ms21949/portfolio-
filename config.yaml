@@ -133,15 +133,15 @@ params:
 
     
   #certifications section
-  disable_certification: true
-  #certification:
-  #  - Name: ML-DL-Masters-Course
-  #    institution: iNeuron.ai
-  #    startdate: "August 2021"
-  #    enddate: "August 2022"
-  #    link:
-  #      - weblink: "https://github.com/rohanpatankar926"
-  #        certificate: "View Certificate"
+  disable_certification: false
+  certification:
+    - Name: Preparing Data for Analysis with Microsoft Excel
+      institution: Microsoft
+      startdate: "September 2023"
+      enddate: "October 2023"
+      link:
+        - weblink: "https://drive.google.com/file/d/1EtaH05rgSYkxA8psm7B8GuT37lBDoamI/view?usp=drive_link"
+          certificate: "View Certificate"
     
   # Education
   disable_education: false
