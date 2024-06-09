@@ -151,7 +151,7 @@ params:
   # Projects
   disable_projects: false
   projects:
-  - name: "PowerBI Projects"
+    - name: "PowerBI Projects"
       img: /images/Microsoft-Power-BI-Symbol-300x270.png
       githublink: "https://github.com/ms21949/PowerBI-Projects"
       description: "This Power BI repository features projects on Superstore Sales Analysis and Twitch Streaming Analysis, providing comprehensive insights into sales performance and viewer engagement, respectively."
