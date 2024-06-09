@@ -1,4 +1,4 @@
-baseURL: ""
+baseURL: "https://madhavsharma-portfolio.netlify.app/"
 languageCode: "en-us"
 title: "Madhav Sharma | Portfolio"
 theme: "./.."
