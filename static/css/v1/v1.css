@@ -175,12 +175,12 @@ a:hover {
 
 .project-heading {
   font-family: "Alata", sans-serif;
-  font-size: 25px;
+  font-size: 5px;
 }
 
 .card-title {
   font-family: "Alata", sans-serif;
-  font-size: 28px;
+  font-size: 5px;
 }
 
 /* recent posts */
@@ -199,5 +199,5 @@ a:hover {
 /* contact */
 .contact-head {
   font-family: "Alata", sans-serif;
-  font-size: 25px;
+  font-size: 5px;
 }
