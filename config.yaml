@@ -4,13 +4,13 @@ title: "Madhav Sharma | Portfolio"
 theme: "./.."
 relativeURLs: true
 
-#googleanalytics: UA-xxxxxx-x
-#disqusShortname:
-#Paginate: 3
-#markup:
-#  goldmark:
-#    renderer:
-#      unsafe: true
+googleanalytics: UA-xxxxxx-x
+disqusShortname:
+Paginate: 3
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
 
 taxonomies:
   tag: "tags"
