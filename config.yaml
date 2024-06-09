@@ -156,17 +156,17 @@ params:
       githublink: "https://github.com/ms21949/PowerBI-Projects"
       description: "This Power BI repository features projects on Superstore Sales Analysis and Twitch Streaming Analysis, providing comprehensive insights into sales performance and viewer engagement, respectively."
     - name: "Fake Review Detection Using Supervised Machine Learning"
-      img: /images/nlp.png
+      img: /images/nlp.jpeg
       githublink: "https://github.com/ms21949/NLP"
       #featuredlink: "http://ec2-34-228-37-227.compute-1.amazonaws.com:8080/"
       description: "The idea behind this project was to use WordLemmatizer along with an N-gram Model. Further vectorising the Product-Review text using a Term Frequency - Inverse Document Frequency (TF-IDF) and then fine-tuning a supervised Machine Learning Model to predict if the review is fake or real."
     - name: "Coupon recommendation for vehicle infotainment systems"
-      img: /images/vehicle.jpeg
+      img: /images/car.jpeg
       githublink: "https://github.com/ms21949/Binary-Classification"
       #featuredlink: "http://ec2-34-228-37-227.compute-1.amazonaws.com:8080/"
       description: "The following code is based on the dataset which was collected via a survey on Amazon Mechanical Turk. The survey describes different driving scenarios including the destination, current time, weather, passenger, etc., and then ask the person whether he will accept the coupon if he is the driver."
     - name: "Rossmann Store Sales Prediction"
-      img: /images/sale.jpeg
+      img: /images/shop.avif
       githublink: "https://github.com/ms21949/Sales-Prediction-"
       #featuredlink: "http://ec2-34-228-37-227.compute-1.amazonaws.com:8080/"
       description: "Rossmann operates over 3,000 drug stores in 7 European countries. Currently, Rossmann store managers are tasked with predicting their daily sales for up to six weeks in advance. Store sales are influenced by many factors, including promotions, competition, school and state holidays, seasonality, and locality. With thousands of individual managers predicting sales based on their unique circumstances, the accuracy of results can be quite varied."
@@ -176,7 +176,7 @@ params:
       featuredlink: "http://ec2-34-228-37-227.compute-1.amazonaws.com:8080/"
       description: "After scraping and converting the data into a CSV, performed some Exploratory Data Analysis on the Dataset and implemented a Machine Learning Model to predict if the Firm is worth Investing and vice versa.  I have built an interactive Flask Web Application including two fields I. e, Rank and Revenue using the model developed in the previous step. "
     - name: "Credit Score Estimator"
-      img: /images/creditscore.jpeg
+      img: /images/credit.jpeg
       githublink: "https://github.com/ms21949/CreditScore-Estimator"
       featuredlink: "https://credit-score-estimator.herokuapp.com/"
       description: "Given a persons credit-related information, build a machine learning model that can classify the credit score."
